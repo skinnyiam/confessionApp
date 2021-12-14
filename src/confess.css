@@ -1,0 +1,8 @@
+    .confess {
+        display: flex;
+    }
+    
+    .confess li {
+        max-width: 500px;
+        word-wrap: break-word;
+    }

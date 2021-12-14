@@ -1,0 +1,14 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.footer h2 {
+    color: red;
+}
+
+.footer p {
+    margin: 0;
+}
